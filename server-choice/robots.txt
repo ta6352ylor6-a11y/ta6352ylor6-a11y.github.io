@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ai.gotidc.com/server-choice/sitemap.xml
+Sitemap: https://ai.1bgp.com/server-choice/sitemap.xml
