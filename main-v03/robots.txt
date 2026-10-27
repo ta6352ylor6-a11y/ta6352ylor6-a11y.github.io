@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ta6352ylor6-a11y.github.io/main-v03/sitemap.xml
