@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://ai.gotidc.com/sitemap.xml
+Sitemap: https://ai.gotidc.com/server-choice/sitemap.xml
