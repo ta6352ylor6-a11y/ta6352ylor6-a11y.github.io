@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ta6352ylor6-a11y.github.io/sitemap.xml
+Sitemap: https://ai.gotidc.com/sitemap.xml

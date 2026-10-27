@@ -35,7 +35,7 @@
 
   const subsites = document.querySelector("[data-subsites]");
   if (subsites) {
-    fetch("https://ta6352ylor6-a11y.github.io/sites.json", { cache: "no-store" })
+    fetch("https://ai.gotidc.com/sites.json", { cache: "no-store" })
       .then((res) => (res.ok ? res.json() : []))
       .then((list) => {
         if (!Array.isArray(list) || !list.length) return;
