@@ -1,5 +1,5 @@
 (() => {
-  const cfg = {"baidu":"","ga4":"","umamiSrc":"","umamiId":"","leadTarget":"https://www.1bgp.com/"};
+  const cfg = {"baidu":"","ga4":"G-83DKFE85FQ","umamiSrc":"","umamiId":"","leadTarget":"https://www.1bgp.com/"};
   const load = (src, attrs = {}) => {
     const s = document.createElement("script");
     s.async = true;
